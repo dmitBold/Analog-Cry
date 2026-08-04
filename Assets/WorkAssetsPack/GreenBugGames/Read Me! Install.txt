@@ -1,0 +1,6 @@
+PostSoviet World
+---
+
+Default version based on HDRP pipeline, for install another render(SRP or URP) use appropriate .unitypackage
+
+Please rate asset on marketplace :)

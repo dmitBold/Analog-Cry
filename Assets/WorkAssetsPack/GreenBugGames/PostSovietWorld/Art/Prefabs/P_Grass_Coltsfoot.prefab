@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!205 &5251197287139688525
+LODGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 279946642185321024}
+  serializedVersion: 2
+  m_LocalReferencePoint: {x: -0.02437061, y: 0.14714804, z: 0.0094925165}
+  m_Size: 0.8069732
+  m_FadeMode: 0
+  m_AnimateCrossFading: 0
+  m_LastLODIsBillboard: 0
+  m_LODs:
+  - screenRelativeHeight: 0.1982084
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 1885291169837828013}
+  - screenRelativeHeight: 0.06508094
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 8586462105934515010}
+  - screenRelativeHeight: 0.013754699
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 7812713968110483011}
+  m_Enabled: 1
+--- !u!1001 &1090988407037478673
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: be37075881af2014e89c08033dd07a5b, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: be37075881af2014e89c08033dd07a5b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: be37075881af2014e89c08033dd07a5b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: be37075881af2014e89c08033dd07a5b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: be37075881af2014e89c08033dd07a5b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: be37075881af2014e89c08033dd07a5b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: be37075881af2014e89c08033dd07a5b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: be37075881af2014e89c08033dd07a5b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: be37075881af2014e89c08033dd07a5b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: be37075881af2014e89c08033dd07a5b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: be37075881af2014e89c08033dd07a5b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: be37075881af2014e89c08033dd07a5b, type: 3}
+      propertyPath: m_Name
+      value: P_Grass_Coltsfoot
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: be37075881af2014e89c08033dd07a5b, type: 3}
+--- !u!1 &279946642185321024 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: be37075881af2014e89c08033dd07a5b, type: 3}
+  m_PrefabInstance: {fileID: 1090988407037478673}
+  m_PrefabAsset: {fileID: 0}
+--- !u!23 &1885291169837828013 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 1516057731949428924, guid: be37075881af2014e89c08033dd07a5b, type: 3}
+  m_PrefabInstance: {fileID: 1090988407037478673}
+  m_PrefabAsset: {fileID: 0}
+--- !u!23 &8586462105934515010 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 8649943633771727955, guid: be37075881af2014e89c08033dd07a5b, type: 3}
+  m_PrefabInstance: {fileID: 1090988407037478673}
+  m_PrefabAsset: {fileID: 0}
+--- !u!23 &7812713968110483011 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 7156129480023273810, guid: be37075881af2014e89c08033dd07a5b, type: 3}
+  m_PrefabInstance: {fileID: 1090988407037478673}
+  m_PrefabAsset: {fileID: 0}
