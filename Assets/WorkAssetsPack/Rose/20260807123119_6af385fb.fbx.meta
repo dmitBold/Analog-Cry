@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f64515c053d12cb4a8c74c704b6ee9d8
+guid: 35b1540f9a5619d4eab11c651cb2118d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,8 +7,28 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: old_mattress_mp_2
-    second: {fileID: 2100000, guid: 63d61c11c88d6a74ab0437001d8164b6, type: 2}
+      name: Material
+    second: {fileID: 2100000, guid: cf8da6d6eed5dce47b9fc823f0a11f4a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: texture_pbr_20250901
+    second: {fileID: 2800000, guid: 32cb4046f608a1446809317ee2e9e779, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: texture_pbr_20250901_metallic
+    second: {fileID: 2800000, guid: 4c7c2731072648f4a9f563ae3ec51f26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: texture_pbr_20250901_normal
+    second: {fileID: 2800000, guid: 75e8f35ec69428e4c8eaa0d36453bf36, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: texture_pbr_20250901_roughness
+    second: {fileID: 2800000, guid: 845ca389a9b1f5a47899c42460071703, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
