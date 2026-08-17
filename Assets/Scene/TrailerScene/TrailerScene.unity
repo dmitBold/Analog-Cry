@@ -34270,7 +34270,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &554972697
 Transform:
   m_ObjectHideFlags: 0
@@ -83712,7 +83712,7 @@ VFXRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1292580745}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -90462,7 +90462,7 @@ VFXRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1388649040}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -94960,14 +94960,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1441071128}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0.0000001192102, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: -0.7933534, z: -0, w: 0.6087615}
   m_LocalPosition: {x: -0.5, y: 0.00000009872019, z: -0.034900665}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1413465732}
   m_Father: {fileID: 279033356}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -105, z: 0}
 --- !u!23 &1441071130
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -96818,7 +96818,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1465188213
 Transform:
   m_ObjectHideFlags: 0
@@ -96852,7 +96852,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1571533299387652577, guid: e69443589d52f6f419c22711a714f731, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6267863402923673516, guid: e69443589d52f6f419c22711a714f731, type: 3}
       propertyPath: m_LocalPosition.x
@@ -122253,14 +122253,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1837924173}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0.6087605, z: -0, w: 0.79335415}
+  m_LocalRotation: {x: -0, y: 0.0000016987321, z: -0, w: 1}
   m_LocalPosition: {x: -0.5, y: 0.00000009872019, z: -0.034900665}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1194177270}
   m_Father: {fileID: 278157093}
-  m_LocalEulerAnglesHint: {x: 0, y: -75, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1837924175
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -135997,8 +135997,8 @@ VFXRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2064086624}
-  m_Enabled: 0
-  m_CastShadows: 1
+  m_Enabled: 1
+  m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
   m_StaticShadowCaster: 0
