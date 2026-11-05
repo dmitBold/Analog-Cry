@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.unity.cloud.gltfast": "https://github.com/Unity-Technologies/com.unity.cloud.gltfast.git?path=/Packages/com.unity.cloud.gltfast",
     "com.unity.collab-proxy": "2.10.2",
     "com.unity.feature.development": "1.0.2",
     "com.unity.multiplayer.center": "1.0.0",
